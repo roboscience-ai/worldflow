@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://arxiv.org/pdf/2610.39278"><img src="assets/paper-badge.svg" width="136" height="28" alt="arXiv Paper"></a>
   &nbsp;
-  <a href="https://worldflow-rbs.github.io/"><img src="assets/project-page.svg" width="144" height="28" alt="Project Page"></a>
+  <a href="https://roboscience-ai.github.io/worldflow-page/"><img src="assets/project-page.svg" width="144" height="28" alt="Project Page"></a>
 </p>
 
 <p align="center"><b>Imagine the Future. Predict Its Motion.</b></p>
@@ -23,14 +23,14 @@ Official repository for **WorldFlow**, a generative world model that jointly pre
 > **WorldFlow** is dedicated to scaling the generalization of explicit 3D object kinematics. By bridging pixel-level evolution and a shared 3D motion space, it delivers highly robust, platform-independent 3D trajectory forecasting.
 
 <p align="center">
-  <a href="https://worldflow-rbs.github.io/#results">
+  <a href="https://roboscience-ai.github.io/worldflow-page/#results">
     <img src="assets/teaser.gif" width="900" alt="WorldFlow 3D motion predictions across simulated, robotic, human-object, and in-the-wild scenes">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://worldflow-rbs.github.io/#results">Explore qualitative results</a> ·
-  <a href="https://worldflow-rbs.github.io/#real-robot">Real-robot demonstrations</a>
+  <a href="https://roboscience-ai.github.io/worldflow-page/#results">Explore qualitative results</a> ·
+  <a href="https://roboscience-ai.github.io/worldflow-page/#real-robot">Real-robot demonstrations</a>
 </p>
 
 ## News
